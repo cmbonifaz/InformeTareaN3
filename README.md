@@ -23,25 +23,56 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **1. Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.**
 
+<img src="imagenes/fig5_44.jpg">
+
 **2. Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.**
+
+<img src="imagenes/fig5_45.jpg">
 
 **3. Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.**
 
+<img src="imagenes/fig5_46.jpg">
+
 **4. El amperímetro de la figura 5-47 tiene autopolaridad. Determine sus lecturas,de la magnitud y el signo correctos.**
+
+<img src="imagenes/fig5_47.jpg">
 
 **5. Determine los voltajes desconocidos en las redes de la figura 5-48.**
 
+<img src="imagenes/fig5_48.jpg">
+
 **6. Determine los voltajes desconocidos en las redes de la figura 5-49.**
 
+<img src="imagenes/fig5_49.jpg">
 **7.Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.**
 
+<img src="imagenes/fig5_50.jpg">
+
 **8. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-51.**
+
+<img src="imagenes/fig5_51.jpg">
+
 **9. Determine la resistencia total de las redes que se muestran en la figura 5-52.**
+
+<img src="imagenes/fig5_52.jpg">
+
+<img src="imagenes/fig5_52b.jpg">
+
+<img src="imagenes/fig5_52c.jpg">
+
 **10. Determine las resistencias desconocidas en cada una de las redes que se muestran en la figura 5-53.**
+
+<img src="imagenes/fig5_53.jpg">
 
 **11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.**
 
+<img src="imagenes/fig5_54a.jpg">
+
+<img src="imagenes/fig5_54b.jpg">
+
 **12.  Para los circuitos de la figura 5-55 tienen resistencia total, RT, como se muestra. Para cada circuito encuentre lo siguiente:**
+
+<img src="imagenes/fig5_55.jpg">
 
 ***a. La magnitud de la corriente en el circuito.***
 
@@ -56,6 +87,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***f.La potencia disipada por cada resistor. Verifique que la suma de potencias disipadas por los resistores sea igual a la potencia suministrada por la fuente de voltaje.***
 
 **13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades:**
+
+ <img src="imagenes/fig5_56.jpg">
  
 ***a. La corriente del circuito.***
 
@@ -69,6 +102,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **14. El circuito de la figura 5-57 tiene una corriente de 2.5 mA. Encuentre las siguientes cantidades:**
 
+<img src="imagenes/fig5_57.jpg">
+
 ***a. La resistencia total en el circuito.***
 
 ***b. El valor de la resistencia desconocida, R2.***
@@ -79,6 +114,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades:**
 
+<img src="imagenes/fig5_58.jpg">
+
 ***a. La corriente, I.***
 
 ***b. La caída de voltaje en cada resistor en el circuito.***
@@ -86,6 +123,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***c. El voltaje en las terminales abiertas a y b.***
 
 **16. Vea el circuito de la figura 5-59:**
+
+<img src="imagenes/fig5_59.jpg">
 
 ***a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.***
 
@@ -95,6 +134,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **17. Repita el problema 16 para el circuito de la figura 5-60.**
 
+<img src="imagenes/fig5_60.jpg">
+
 ***a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.***
 
 ***b. Determine la magnitud de la corriente, I.***
@@ -102,6 +143,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***c. Encuentre la resistencia desconocida, R1.***
 
 **18. Vea el circuito de la figura 5-61:**
+
+<img src="imagenes/fig5_61.jpg">
 
 ***a. Encuentre RT.***
 
@@ -117,6 +160,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **19. Repita el problema 18 para el circuito de la figura 5-62.**
 
+<img src="imagenes/fig5_62.jpg">
+
 ***a. Encuentre RT.***
 
 ***b. Resuelva para hallar la corriente, I.***
@@ -130,6 +175,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***f. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.***
 
 **20. Vea el circuito de la figura 5-63.**
+
+<img src="imagenes/fig5_63.jpg">
 
 ***a. Calcule el voltaje en cada resistor.***
 
