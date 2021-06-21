@@ -25,18 +25,85 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/fig5_44.jpg">
 
+*Voltimetro a*
+
+V=IxR
+
+V= 3Ax10Ω
+
+V= 30v
+
+*Voltimetro b*
+
+V=IxR
+
+V=-6Ax15Ω
+
+V= -90v
+
 **2. Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.**
 
 <img src="imagenes/fig5_45.jpg">
+
+*Voltimetro a*
+
+V=IxR
+
+V= -2Ax36Ω
+
+V= - 72 v
+
+*Voltimetro b*
+
+V=IxR
+
+V= 4Ax40Ω
+
+V=160 v
 
 **3. Todos los resistores de la figura 5-46 son de 15Ω . Determine para cada caso la magnitud y la polaridad del voltaje V.**
 
 <img src="imagenes/fig5_46.jpg">
 
+*Resistencia a*
+
+V=IxR
+
+V=3Ax15Ω
+
+V=45v
+
+*Resistencia b*
+
+V=IxR
+
+V= -4Ax15Ω
+
+V=-60v
+
+*Resistencia c*
+
+V=IxR
+
+V= 6Ax15Ω
+
+V=90v
+
+*Resistencia d*
+
+V=IxR
+
+V= -7Ax15Ω
+
+V= -105 v
+
 **4. El amperímetro de la figura 5-47 tiene autopolaridad. Determine sus lecturas,de la magnitud y el signo correctos.**
 
 <img src="imagenes/fig5_47.jpg">
 
+*Amperímetro a*
+
+*Amperímetro b*
 **5. Determine los voltajes desconocidos en las redes de la figura 5-48.**
 
 <img src="imagenes/fig5_48.jpg">
