@@ -13,7 +13,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 2. MARCO TEÓRICO
 
+#### Capitulo 5 (Circuitos en serie)
+
+#### Capitulo 6 (Circuitos en paralelo)
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+#### Capitulo 5 (Circuitos en serie)
+
+#### Capitulo 6 (Circuitos en paralelo)
 
 ### 4. VIDEO
 
