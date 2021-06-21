@@ -20,6 +20,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 #### Capitulo 5 (Circuitos en serie)
+
 **1. Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.**
 
 **2. Los voltímetros de la figura 5-45 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.**
@@ -44,13 +45,13 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***a. La magnitud de la corriente en el circuito.***
 
-***b.El total de potencia suministrada por la fuente de voltaje.***
+***b. El total de potencia suministrada por la fuente de voltaje.***
 
-***c.La dirección de la corriente a través de cada resistor en el circuito.***
+***c. La dirección de la corriente a través de cada resistor en el circuito.***
 
 ***d. El valor de la resistencia desconocida, R.***
 
-***e.La caída de voltaje en cada resistor.***
+***e. La caída de voltaje en cada resistor.***
 
 ***f.La potencia disipada por cada resistor. Verifique que la suma de potencias disipadas por los resistores sea igual a la potencia suministrada por la fuente de voltaje.***
 
@@ -58,9 +59,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
  
 ***a. La corriente del circuito.***
 
-***b.La resistencia total.***
+***b. La resistencia total.***
 
-***c.El valor de la resistencia desconocida, R.***
+***c. El valor de la resistencia desconocida, R.***
 
 ***d.La caída de voltaje en todos los resistores en el circuito.***
 
@@ -68,27 +69,73 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **14. El circuito de la figura 5-57 tiene una corriente de 2.5 mA. Encuentre las siguientes cantidades:**
 
-***a.La resistencia total en el circuito.***
+***a. La resistencia total en el circuito.***
 
-***b.El valor de la resistencia desconocida, R2.***
+***b. El valor de la resistencia desconocida, R2.***
 
-***c.La caída de voltaje en cada resistor en el circuito.***
+***c. La caída de voltaje en cada resistor en el circuito.***
 
-***d.La potencia disipada por cada uno de los resistores.***
+***d. La potencia disipada por cada uno de los resistores.***
 
 **15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades:**
 
+***a. La corriente, I.***
+
+***b. La caída de voltaje en cada resistor en el circuito.***
+
+***c. El voltaje en las terminales abiertas a y b.***
+
 **16. Vea el circuito de la figura 5-59:**
+
+***a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.***
+
+***b. Determine la magnitud de la corriente, I.***
+
+***c. Encuentre la resistencia desconocida, R1.***
 
 **17. Repita el problema 16 para el circuito de la figura 5-60.**
 
+***a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.***
+
+***b. Determine la magnitud de la corriente, I.***
+
+***c. Encuentre la resistencia desconocida, R1.***
+
 **18. Vea el circuito de la figura 5-61:**
+
+***a. Encuentre RT.***
+
+***b. Resuelva para hallar la corriente, I.***
+
+***c. Determine la caída de voltaje en cada resistor.***
+
+***d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.***
+
+***e. Encuentre la potencia disipada por cada resistor.***
+
+***f. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.***
 
 **19. Repita el problema 18 para el circuito de la figura 5-62.**
 
+***a. Encuentre RT.***
+
+***b. Resuelva para hallar la corriente, I.***
+
+***c. Determine la caída de voltaje en cada resistor.***
+
+***d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.***
+
+***e. Encuentre la potencia disipada por cada resistor.***
+
+***f. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.***
+
 **20. Vea el circuito de la figura 5-63.**
 
+***a. Calcule el voltaje en cada resistor.***
 
+***b. Determine los valores de los resistores R1 y R2.***
+
+***c. Encuentre la potencia disipada por cada uno de los resistores.***
 
 
 
