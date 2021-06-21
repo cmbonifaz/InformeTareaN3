@@ -103,21 +103,47 @@ V= -105 v
 
 *Amperímetro a*
 
+<img src="imagenes/ejer4a.jpg">
+
 *Amperímetro b*
+
+<img src="imagenes/ejer4b.jpg">
+
 **5. Determine los voltajes desconocidos en las redes de la figura 5-48.**
 
 <img src="imagenes/fig5_48.jpg">
 
+*Voltaje a*
+
+<img src="imagenes/ejer5a.jpg">
+
+*Voltaje b*
+
+<img src="imagenes/ejer5b.jpg">
+
 **6. Determine los voltajes desconocidos en las redes de la figura 5-49.**
 
 <img src="imagenes/fig5_49.jpg">
+
+*Voltaje a*
+
+<img src="imagenes/ejer6a.jpg">
+
+*Voltaje b*
+
+<img src="imagenes/ejer6b.jpg">
+
 **7.Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.**
 
 <img src="imagenes/fig5_50.jpg">
 
+<img src="imagenes/ejer7.jpg">
+
 **8. Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-51.**
 
 <img src="imagenes/fig5_51.jpg">
+
+<img src="imagenes/ejer8.jpg">
 
 **9. Determine la resistencia total de las redes que se muestran en la figura 5-52.**
 
