@@ -596,14 +596,39 @@ R2=12kΩ
 
 ***26.Vea los circuitos de la figura 5-69:***
 
+<img src="imagenes/eje26a.jpeg">
+
+<img src="imagenes/eje26b.jpeg">
+
+<img src="imagenes/eje26c.jpeg">
+
+<img src="imagenes/eje26d.jpeg">
+
+<img src="imagenes/eje26e.jpeg">
+
 ***27.Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.***
+
+<img src="imagenes/eje27a.jpeg">
+
+<img src="imagenes/eje27b.jpeg">
+
+<img src="imagenes/eje27c.jpeg">
 
 ***28.Repita el problema 27 con una serie de 36 focos.***
 
+<img src="imagenes/eje28a.jpeg">
+
+<img src="imagenes/eje28b.jpeg">
+
 ***29.Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68.***
+
+<img src="imagenes/eje29a.jpeg">
+
+<img src="imagenes/eje29b.jpeg">
 
 ***30.Repita el problema 29 para los circuitos de la figura 5-69.***
 
+<img src="imagenes/eje30.jpeg">
 
 #### Capitulo 6 (Circuitos en paralelo)
 
