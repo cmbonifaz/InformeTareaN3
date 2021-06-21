@@ -550,13 +550,45 @@ R2=12kΩ
 
 ***21.Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.***
 
+<img src="imagenes/eje21.jpeg">
+
 ***22.Utilice la información dada para determinar la polaridad y la magnitud de la fuente de voltaje desconocida en cada uno de los circuitos de la figura 5-65.***
+
+<img src="imagenes/eje22a.jpeg">
+
+<img src="imagenes/eje22b.jpeg">
 
 ***23.Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.***
 
+<img src="imagenes/eje23a.jpeg">
+
+<img src="imagenes/eje23b.jpeg">
+
 ***24.Repita el problema 23 para los circuitos de la figura 5-67.***
 
+<img src="imagenes/eje24a.jpeg">
+
+<img src="imagenes/eje24b.jpeg">
+
+<img src="imagenes/eje24c.jpeg">
+
+<img src="imagenes/eje24d.jpeg">
+
 ***25. Vea los circuitos de la figura 5-68:***
+
+<img src="imagenes/eje25a.jpeg">
+
+<img src="imagenes/eje25b.jpeg">
+
+<img src="imagenes/eje25c.jpeg">
+
+<img src="imagenes/eje25d.jpeg">
+
+<img src="imagenes/eje25e.jpeg">
+
+<img src="imagenes/eje25f.jpeg">
+
+<img src="imagenes/eje25g.jpeg">
 
 ***26.Vea los circuitos de la figura 5-69:***
 
