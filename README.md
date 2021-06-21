@@ -595,40 +595,89 @@ R2=12kΩ
 <img src="imagenes/eje25g.jpeg">
 
 ***26.Vea los circuitos de la figura 5-69:***
+<img src="imagenes/T1.PNG">
 
-<img src="imagenes/eje26a.jpeg">
+CIRCUITO 1
 
-<img src="imagenes/eje26b.jpeg">
+a. Use la regla del divisor de voltaje para encontrar los valores de los resistores
+desconocidos.
 
-<img src="imagenes/eje26c.jpeg">
+<img src="imagenes/T2.PNG">
 
-<img src="imagenes/eje26d.jpeg">
+b. Calcule el voltaje en R1 y R3.
 
-<img src="imagenes/eje26e.jpeg">
+<img src="imagenes/T3.PNG">
+
+c. Determine la potencia disipada por cada resistor.
+
+<img src="imagenes/T4.PNG">
+
+CIRCUITO 2
+
+a. Use la regla del divisor de voltaje para encontrar los valores de los resistores
+desconocidos.
+
+<img src="imagenes/T5.PNG">
+
+b. Calcule el voltaje en R1 y R3.
+
+<img src="imagenes/T6.PNG">
+
+c. Determine la potencia disipada por cada resistor.
+
+<img src="imagenes/T7.PNG">
 
 ***27.Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.***
 
-<img src="imagenes/eje27a.jpeg">
+<img src="imagenes/T8.PNG">
 
-<img src="imagenes/eje27b.jpeg">
+a.-
+<img src="imagenes/T9.PNG">
 
-<img src="imagenes/eje27c.jpeg">
+b.-
+<img src="imagenes/T10.PNG">
+
+c.-
+<img src="imagenes/T11.PNG">
+
+d.- 
+<img src="imagenes/T12.PNG">
+
+e.-
+
+La vida útil de los focos disminuye 
 
 ***28.Repita el problema 27 con una serie de 36 focos.***
 
-<img src="imagenes/eje28a.jpeg">
+a.-
+<img src="imagenes/T13.PNG">
 
-<img src="imagenes/eje28b.jpeg">
+b.-
+<img src="imagenes/T14.PNG">
 
+c.-
+<img src="imagenes/T15.PNG">
+
+d.- 
+<img src="imagenes/T16.PNG">
+
+e.-
+
+La vida útil de los focos disminuye 
 ***29.Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68.***
 
-<img src="imagenes/eje29a.jpeg">
+<img src="imagenes/T17.PNG">
 
-<img src="imagenes/eje29b.jpeg">
+CIRCUITO 1
+
+<img src="imagenes/T18.PNG">
+
+CIRCUITO 2
+
+<img src="imagenes/T19.PNG">
 
 ***30.Repita el problema 29 para los circuitos de la figura 5-69.***
 
-<img src="imagenes/eje30.jpeg">
 
 #### Capitulo 6 (Circuitos en paralelo)
 
