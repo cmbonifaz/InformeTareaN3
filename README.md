@@ -595,6 +595,7 @@ R2=12kΩ
 <img src="imagenes/eje25g.jpeg">
 
 ***26.Vea los circuitos de la figura 5-69:***
+
 <img src="imagenes/T1.PNG">
 
 CIRCUITO 1
@@ -664,6 +665,7 @@ d.-
 e.-
 
 La vida útil de los focos disminuye 
+
 ***29.Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68.***
 
 <img src="imagenes/T17.PNG">
