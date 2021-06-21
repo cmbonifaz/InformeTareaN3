@@ -632,37 +632,45 @@ c. Determine la potencia disipada por cada resistor.
 
 <img src="imagenes/T8.PNG">
 
-a.-
+a.- Determine la corriente en el circuito.
+
 <img src="imagenes/T9.PNG">
 
-b.-
+b.- Utilice la regla del divisor de voltaje para encontrar el voltaje en cada foco.
+
 <img src="imagenes/T10.PNG">
 
-c.-
+c.- Calcule la potencia disipada por cada foco.
+
 <img src="imagenes/T11.PNG">
 
-d.- 
+d.- Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta de metal que pone en corto al foco cuando el filamento falla. Repita los pasos (a) a (c), si dos focos de la serie se quemaran.
+
 <img src="imagenes/T12.PNG">
 
-e.-
+e.- Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanza de vida del resto de los focos, si los dos que fallan no fueran reemplazados?
 
 La vida útil de los focos disminuye 
 
 ***28.Repita el problema 27 con una serie de 36 focos.***
 
-a.-
+a.-Determine la corriente en el circuito.
+
 <img src="imagenes/T13.PNG">
 
-b.-
+b.- Utilice la regla del divisor de voltaje para encontrar el voltaje en cada foco.
+
 <img src="imagenes/T14.PNG">
 
-c.-
+c.- Calcule la potencia disipada por cada foco.
+
 <img src="imagenes/T15.PNG">
 
-d.- 
+d.- Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta de metal que pone en corto al foco cuando el filamento falla. Repita los pasos (a) a (c), si dos focos de la serie se quemaran.
+
 <img src="imagenes/T16.PNG">
 
-e.-
+e.- Basado en sus cálculos del paso (d), ¿qué cree que pasaría con la esperanza de vida del resto de los focos, si los dos que fallan no fueran reemplazados?
 
 La vida útil de los focos disminuye 
 
