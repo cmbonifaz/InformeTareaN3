@@ -735,6 +735,8 @@ b. Determine el valor de la resistencia R3
 
 ### 5. CONCLUSIONES 
 
+-Mediante el desarrollo de los ejercicios pudimos comprender más ampliamente los conceptos de los circutos serie y paralelo, así como también todos los elementos asociados a ellos como el cálculo de las resistencias equivalentes, como se componen y cómo se miden.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
