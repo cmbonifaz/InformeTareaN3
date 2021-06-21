@@ -149,19 +149,92 @@ V= -105 v
 
 <img src="imagenes/fig5_52.jpg">
 
+Rt = 3kΩ+2kΩ+5kΩ
+
+Rt = 10kΩ
+
 <img src="imagenes/fig5_52b.jpg">
 
+Rt = 360kΩ+580kΩ+2000kΩ
+
+Rt = 2.94MΩ
+
 <img src="imagenes/fig5_52c.jpg">
+
+Rt = 3900Ω+3900Ω+3900Ω+3900Ω+3900Ω+3900Ω
+
+Rt = 23.4kΩ
 
 **10. Determine las resistencias desconocidas en cada una de las redes que se muestran en la figura 5-53.**
 
 <img src="imagenes/fig5_53.jpg">
 
+*Resisencias figura a*
+
+Rt = 10Ω+22Ω+47Ω+15Ω
+
+Rt = 95Ω
+
+*Resisencias figura b*
+
+Rt = 12000Ω+12000Ω+12000Ω
+
+Rt = 36kΩ
+
+*Resisencias figura c*
+
+Rt = 2R2+R2+6R2
+
+36Ω=9R2
+
+R2= 4Ω
+
+R1=2R2
+
+R1=2x(4Ω)
+
+R1=8Ω
+
+
+R3= 3R1
+
+R3=6R2
+
+R3=6x(4Ω)
+
+R3= 24Ω
+
 **11. Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.**
 
 <img src="imagenes/fig5_54a.jpg">
 
+Rt = R1+R2+R3+R4
+
+Rt = 200Ω+400Ω+1000Ω+50Ω
+
+Rt = 1650Ω
+
+I = V/R
+
+I = 10V/1650
+
+I = 6.06mA
+
 <img src="imagenes/fig5_54b.jpg">
+
+Rt = R1+R2+R3+R4
+
+Rt = 1200Ω+3300Ω+5600Ω+820Ω+2200Ω+330Ω+4700Ω
+
+Rt = 18150Ω
+
+Rt = 18.15kΩ
+
+I = V/R
+
+I = 300/18150
+
+I = 16.5mA
 
 **12.  Para los circuitos de la figura 5-55 tienen resistencia total, RT, como se muestra. Para cada circuito encuentre lo siguiente:**
 
@@ -169,15 +242,57 @@ V= -105 v
 
 ***a. La magnitud de la corriente en el circuito.***
 
+I = E/R
+
+I = 90/12
+
+I = 7.5V 
+
 ***b. El total de potencia suministrada por la fuente de voltaje.***
+
+Pt = ExI
+
+Pt = 90x7.5
+
+Pt = 675w
 
 ***c. La dirección de la corriente a través de cada resistor en el circuito.***
 
+La resistencia se daría en sentido horario.
+
 ***d. El valor de la resistencia desconocida, R.***
+
+Rt = R1+R2+R3+R4
+
+R4 = Rt-R1-R2-R3
+
+R4 = 12kΩ-1kΩ-4kΩ-3kΩ
+
+R4 = 4kΩ
 
 ***e. La caída de voltaje en cada resistor.***
 
+V1 = 7.5x1 = 7.5V
+
+V2 = 7.5x4 = 30V
+
+V3 = 7.5x3 = 22.5V
+
+V4 = 7.5x4 = 30V
+
 ***f.La potencia disipada por cada resistor. Verifique que la suma de potencias disipadas por los resistores sea igual a la potencia suministrada por la fuente de voltaje.***
+
+P1 = (7.5)^2 x (1kΩ) = 56.25w
+
+P2 = (7.5)^2 x (4kΩ) = 225w
+
+P3 = (7.5)^2 x (3kΩ) = 168.75w
+
+P4 = (7.5)^2 x (4kΩ) = 225w
+
+Pt = 56.25w+225+168.75+225w
+
+Pt = 675w
 
 **13. Para el circuito de la figura 5-56 encuentre las siguientes cantidades:**
 
