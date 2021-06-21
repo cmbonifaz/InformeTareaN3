@@ -719,6 +719,8 @@ b. Determine el valor de la resistencia R3
 
 ### 4. VIDEO
 
+[Problemas Capítulos 5 y 6 - Informe Tarea N°3](https://youtu.be/H6SpjGA4e0Y "Problemas Capítulos 5 y 6 - Informe Tarea N°3")
+
 ### 5. CONCLUSIONES 
 
 ### 6. BIBLIOGRAFÍA
