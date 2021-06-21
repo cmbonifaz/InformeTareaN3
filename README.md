@@ -15,6 +15,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 5 (Circuitos en serie)
 
+<img src="imagenes/RESUMENCAP6.png">
+
 #### Capitulo 6 (Circuitos en paralelo)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
