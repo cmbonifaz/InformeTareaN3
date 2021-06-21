@@ -546,7 +546,7 @@ R2=12kΩ
 
 ***c. Encuentre la potencia disipada por cada uno de los resistores.***
 
-
+<img src="imagenes/ejer20c.jpg">
 
 #### Capitulo 6 (Circuitos en paralelo)
 
