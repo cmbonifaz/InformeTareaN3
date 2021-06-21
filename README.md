@@ -300,13 +300,23 @@ Pt = 675w
  
 ***a. La corriente del circuito.***
 
+<img src="imagenes/ejer13a.jpg">
+
 ***b. La resistencia total.***
+
+<img src="imagenes/ejer13b.jpg">
 
 ***c. El valor de la resistencia desconocida, R.***
 
+<img src="imagenes/ejer13c.jpg">
+
 ***d.La caída de voltaje en todos los resistores en el circuito.***
 
+<img src="imagenes/ejer13d.jpg">
+
 ***e. La potencia disipada por todos los resistores.***
+
+<img src="imagenes/ejer13e.jpg">
 
 **14. El circuito de la figura 5-57 tiene una corriente de 2.5 mA. Encuentre las siguientes cantidades:**
 
@@ -314,11 +324,19 @@ Pt = 675w
 
 ***a. La resistencia total en el circuito.***
 
+<img src="imagenes/ejer14a.jpg">
+
 ***b. El valor de la resistencia desconocida, R2.***
+
+<img src="imagenes/ejer14b.jpg">
 
 ***c. La caída de voltaje en cada resistor en el circuito.***
 
+<img src="imagenes/ejer14c.jpg">
+
 ***d. La potencia disipada por cada uno de los resistores.***
+
+<img src="imagenes/ejer14d.jpg">
 
 **15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades:**
 
@@ -326,9 +344,15 @@ Pt = 675w
 
 ***a. La corriente, I.***
 
+<img src="imagenes/ejer15a.jpg">
+
 ***b. La caída de voltaje en cada resistor en el circuito.***
 
+<img src="imagenes/ejer15b.jpg">
+
 ***c. El voltaje en las terminales abiertas a y b.***
+
+<img src="imagenes/ejer15c.jpg">
 
 **16. Vea el circuito de la figura 5-59:**
 
@@ -336,9 +360,15 @@ Pt = 675w
 
 ***a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.***
 
+<img src="imagenes/ejer16a.jpg">
+
 ***b. Determine la magnitud de la corriente, I.***
 
+I=0.02=20mA
+
 ***c. Encuentre la resistencia desconocida, R1.***
+
+<img src="imagenes/ejer16c.jpg">
 
 **17. Repita el problema 16 para el circuito de la figura 5-60.**
 
@@ -346,9 +376,39 @@ Pt = 675w
 
 ***a. Utilice la ley de voltaje de Kirchhoff para encontrar las caídas de voltaje en R2 y R3.***
 
+∑V=0
+
+16V-7.5V-(Ix4.7kΩ)-(Ix3.6kΩ)
+
+8.5V-8.3kI=0
+
+I= -8.5/-8.3
+
+I=1.02409mA
+
+VR2=IxR
+
+VR2=1.02409mAx4.7kΩ
+
+VR2=4.81325v
+
+VR3=IxR
+
+VR3=1.02409mAx3.6kΩ
+
+VR3=3.68675v
+
 ***b. Determine la magnitud de la corriente, I.***
 
+I=1.02409mA
+
 ***c. Encuentre la resistencia desconocida, R1.***
+
+R1= VR1/I
+
+R1= 7.5V/1.02409mA
+
+R1= 7.32352kΩ
 
 **18. Vea el circuito de la figura 5-61:**
 
@@ -356,15 +416,47 @@ Pt = 675w
 
 ***a. Encuentre RT.***
 
+Rt = 1.8kΩ+3.3kΩ+10kΩ+8.2kΩ
+
+Rt = 23.3
+
 ***b. Resuelva para hallar la corriente, I.***
+
+I = 180/23.3
+
+I = 7.73V
 
 ***c. Determine la caída de voltaje en cada resistor.***
 
+V1 = 7.73x1.8 = 13.91
+
+V2 = 7.73x3.3 = 25.50
+
+V3 = 7.73x10 = 77.3
+
+V4 = 7.73x8.2 = 63.386
+
 ***d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.***
+
+∑V=0
+
+180V-13.91V-25.5V-77.3V-63.386V=0
+
+0=0
 
 ***e. Encuentre la potencia disipada por cada resistor.***
 
+P1 = (7.73)^2x1.8= 107.55mw
+
+P2 = (7.73)^2x3.3= 197.18mw 
+
+P3 = (7.73)^2x10= 597.52mw 
+
+P4 = (7.73)^2x8.2= 489.97mw
+
 ***f. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.***
+
+Pt = 180x7.73= 1391.4mW
 
 **19. Repita el problema 18 para el circuito de la figura 5-62.**
 
@@ -372,15 +464,51 @@ Pt = 675w
 
 ***a. Encuentre RT.***
 
+Rt = 120Ω+39Ω+78Ω+220Ω
+
+Rt = 457Ω
+
 ***b. Resuelva para hallar la corriente, I.***
 
-***c. Determine la caída de voltaje en cada resistor.***
+I = 36/457
 
-***d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.***
+I = 0.078 A
+
+I=78.77 mA 
+
+***c. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.***
+
+∑V=0
+
+36V-9.45V-3.07V-6.14V-17.33V=0
+
+0=0
+
+***d. Determine la caída de voltaje en cada resistor.***
+
+V1=(78.77)x120=9.45V
+
+V2=(78.77)x39=3.07V
+
+V3=(78.77)x78=6.14V
+
+V4=(78.77)x220=17.33V
 
 ***e. Encuentre la potencia disipada por cada resistor.***
 
+V1=(78.77/1000)^2x120=0.7445W
+
+V2=(78.77/1000)^2x39=0.2419W
+
+V3=(78.77/1000)^2x78=0.48397W
+
+V4=(78.77/1000)^2x220=1.36503W
+
 ***f. Muestre que la potencia suministrada por la fuente de voltaje es igual a la suma de las potencias disipadas por los resistores.***
+
+Pt= 36x78.77
+
+Pt =2.836W
 
 **20. Vea el circuito de la figura 5-63.**
 
@@ -388,7 +516,33 @@ Pt = 675w
 
 ***a. Calcule el voltaje en cada resistor.***
 
+V3=IxR3
+
+V3=3mAx8kΩ
+
+V3=24V
+
+V2=36V
+
+∑V=0
+
+72V-24V-36V-V1=0
+
+V1=12V
+
 ***b. Determine los valores de los resistores R1 y R2.***
+
+R1= V/I
+
+R1= 12V/3mA
+
+R1= 4kΩ
+
+R2= V/I
+
+R2=36V/ 3mA
+
+R2=12kΩ
 
 ***c. Encuentre la potencia disipada por cada uno de los resistores.***
 
