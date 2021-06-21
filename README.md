@@ -10,7 +10,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 **Tema:** Capitulo 5 (Circuitos en serie) y capitulo 6 (Circuitos en paralelo) de Análisis de Circuitos - Robbins, Miller
 
 ### 1. OBJETIVOS
-
+- Emplear la teoria de Circuitos en serie aplicando  los conceptos aprendidos de análisis de circuitos
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 5 (Circuitos en serie)
