@@ -79,9 +79,13 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 **15. Para el circuito de la figura 5-58, encuentre las siguientes cantidades:**
 
 **16. Vea el circuito de la figura 5-59:**
+
 **17. Repita el problema 16 para el circuito de la figura 5-60.**
+
 **18. Vea el circuito de la figura 5-61:**
+
 **19. Repita el problema 18 para el circuito de la figura 5-62.**
+
 **20. Vea el circuito de la figura 5-63.**
 
 
