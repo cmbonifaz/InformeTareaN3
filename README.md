@@ -548,6 +548,27 @@ R2=12kΩ
 
 <img src="imagenes/ejer20c.jpg">
 
+***21.Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de voltaje para cada circuito. Encuentre la corriente para cada circuito.***
+
+***22.Utilice la información dada para determinar la polaridad y la magnitud de la fuente de voltaje desconocida en cada uno de los circuitos de la figura 5-65.***
+
+***23.Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de voltaje de Kirchhoff para cada circuito.***
+
+***24.Repita el problema 23 para los circuitos de la figura 5-67.***
+
+***25. Vea los circuitos de la figura 5-68:***
+
+***26.Vea los circuitos de la figura 5-69:***
+
+***27.Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.***
+
+***28.Repita el problema 27 con una serie de 36 focos.***
+
+***29.Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68.***
+
+***30.Repita el problema 29 para los circuitos de la figura 5-69.***
+
+
 #### Capitulo 6 (Circuitos en paralelo)
 
 1.	Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie.
