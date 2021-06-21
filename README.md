@@ -552,6 +552,8 @@ R2=12kΩ
 
 1.	Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie.
 
+<img src="imagenes/eje1.jpeg">
+
 a)	A, B, D y E están en serie – C y F en paralelo
 
 b)	B, C, y D están en paralelo 
@@ -562,7 +564,11 @@ d)	B, C, A, D paralelo
 
 3.	Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
 
+<img src="imagenes/eje3.jpeg">
+
 5.	Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48
+
+<img src="imagenes/eje5.jpeg">
 
 a.  I1=5-2=3A                      b.I2=4-5=-1A
 
@@ -576,7 +582,7 @@ a. Calcule las corrientes I1, I2, I3 e I4.
 
 b. Determine el valor de la resistencia R3
 
-
+<img src="imagenes/eje7.jpeg">
 
 ### 4. VIDEO
 
