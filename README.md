@@ -785,13 +785,29 @@ I=0.2 A
 
 I2=0.1 A=I2 
 
-**29. **
+**29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.**
 
-**31.**
+*Circuito a*
 
-**33.**
+*Circuito b*
 
-**35.**
+**31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.**
+
+*Circuito a*
+
+*Circuito b*
+
+**33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.**
+
+**35. Vea el circuito de la figura 6-77: **
+
+**a. Determine la resistencia equivalente RT, del circuito. **
+
+**b. Encuentre la corriente I.**
+
+**c. Use la regla del divisor de corriente para determinar la corriente en cada resistor.**
+
+**d. Verifique la ley de corriente de Kirchhoff en el nodo a.**
 
 ### 4. VIDEO
 
