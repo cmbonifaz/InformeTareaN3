@@ -799,11 +799,15 @@ I2=0.1 A=I2
 
 *Circuito a*
 
+Primero se calcula la conductancia total.
+
 *Circuito b*
 
 **33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.**
 
 <img src="imagenes/fig6_75.jpg">
+
+Despejando R se tiene:
 
 **35. Vea el circuito de la figura 6-77:**
 
