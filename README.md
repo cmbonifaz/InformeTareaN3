@@ -19,7 +19,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 5 (Circuitos en serie)
 
-
+<img src="imagenes/Circuitos en serie.png">
 
 #### Capitulo 6 (Circuitos en paralelo)
 
