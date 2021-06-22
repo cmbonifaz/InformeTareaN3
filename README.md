@@ -695,7 +695,7 @@ CIRCUITO 2
 
 #### Capitulo 6 (Circuitos en paralelo)
 
-1.	Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie.
+**1.	Indique cuáles de los elementos en la figura 6-44 están conectados en paralelo y cuáles en serie.**
 
 <img src="imagenes/eje1.jpeg">
 
@@ -707,11 +707,11 @@ c)	A, B, D y F están en paralelo – C y E están en serie
 
 d)	B, C, A, D paralelo 
 
-3.	Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46
+**3.	Sin cambiar las posiciones de los componentes, muestre al menos una forma de conectar en paralelo todos los elementos de la figura 6-46**
 
 <img src="imagenes/eje3.jpeg">
 
-5.	Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48
+**5.	Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones de las corrientes que se indican en cada red que se muestra en la figura 6-48**
 
 <img src="imagenes/eje5.jpeg">
 
@@ -721,7 +721,7 @@ b. I1=6+1=7A                      b.I2=2A                         c.I3=-3-4=-7 A
 
 c.I1=15-5-6=4mA         b.I2=5+7+6+2=20mA
 
-7. Considere la red de la figura 6-50. 
+**7. Considere la red de la figura 6-50.** 
 
 a. Calcule las corrientes I1, I2, I3 e I4. 
 
@@ -729,7 +729,7 @@ b. Determine el valor de la resistencia R3
 
 <img src="imagenes/eje7.jpeg">
 
-9. Vea la red de la figura 6-52: 
+**9. Vea la red de la figura 6-52:** 
 
 a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4. 
 
@@ -738,6 +738,60 @@ b. Calcule el voltaje V, en la red.
 c. Determine los valores de los resistores desconocidos, R1, R3 y R4
 
 <img src="imagenes/eje.9.jpeg">
+
+**21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.**
+
+<img src="imagenes/fig6_64.jpg">
+
+I1=0.235 mA
+
+I2=0.706 mA
+
+I3=1.059 mA
+
+R1=V/I=32/0.235=136 kΩ
+
+R2=V/I=32/0.706=45.3k Ω 
+
+R3=V/I=32/1.059=30.2 kΩ
+
+**23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la figura 6-66.**
+
+<img src="imagenes/fig6_66.jpg">
+
+*Circuito a*	
+
+R= 12.5 kΩ
+
+*Circuito b*	
+
+R=0
+
+*Circuito c*	
+
+R=75 Ω
+
+**25. Sin usar lápiz, papel o calculadora determine la resistencia aproximada de la red de la figura 6-68.**
+
+<img src="imagenes/fig6_68.jpg">
+
+R= 15Ω
+
+**27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en la carga y en cada batería.**
+
+<img src="imagenes/fig6_69.jpg">
+
+I=0.2 A
+
+I2=0.1 A=I2 
+
+**29. **
+
+**31.**
+
+**33.**
+
+**35.**
 
 ### 4. VIDEO
 
