@@ -751,7 +751,7 @@ I3=1.059 mA
 
 R1=V/I=32/0.235=136 kΩ
 
-R2=V/I=32/0.706=45.3k Ω 
+R2=V/I=32/0.706=45.3kΩ 
 
 R3=V/I=32/1.059=30.2 kΩ
 
@@ -807,7 +807,10 @@ Primero se calcula la conductancia total.
 
 <img src="imagenes/fig6_75.jpg">
 
+
 Despejando R se tiene:
+
+R=12.36Ω
 
 **35. Vea el circuito de la figura 6-77:**
 
