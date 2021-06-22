@@ -787,11 +787,15 @@ I2=0.1 A=I2
 
 **29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.**
 
+<img src="imagenes/fig6_71.jpg">
+
 *Circuito a*
 
 *Circuito b*
 
 **31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.**
+
+<img src="imagenes/fig6_73.jpg">
 
 *Circuito a*
 
@@ -799,7 +803,11 @@ I2=0.1 A=I2
 
 **33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.**
 
+<img src="imagenes/fig6_75.jpg">
+
 **35. Vea el circuito de la figura 6-77: **
+
+<img src="imagenes/fig6_77.jpg">
 
 **a. Determine la resistencia equivalente RT, del circuito. **
 
