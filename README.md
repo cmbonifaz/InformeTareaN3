@@ -780,6 +780,29 @@ c. Determine los valores de los resistores desconocidos, R1, R3 y R4
 
 <img src="imagenes/eje.9.jpeg">
 
+**11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54**
+
+
+
+**13. Para las redes de la figura 6-56 determine el valor de la(s) resistencia(s) desconocidas para que resulte la resistencia total que se indica **
+
+
+
+**15. Vea la red de la figura 6-58: 
+a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 .**
+
+
+
+**17. Vea la red de la figura 6-60:
+ a. Encuentre los voltajes a través de R1 y R2. 
+b. Determine la corriente I2**
+
+
+
+**19. Determine la resistencia total de cada red de la figura 6-62.**
+
+
+
 **21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.**
 
 <img src="imagenes/fig6_64.jpg">
