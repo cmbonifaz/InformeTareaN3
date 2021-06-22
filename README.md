@@ -832,7 +832,11 @@ I2=0.1 A=I2
 
 *Circuito a*
 
+<img src="imagenes/ejerc29_a.jpg">
+
 *Circuito b*
+
+<img src="imagenes/ejerc29_b.jpg">
 
 **31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.**
 
@@ -842,12 +846,17 @@ I2=0.1 A=I2
 
 Primero se calcula la conductancia total.
 
+<img src="imagenes/ejerc31_a.jpg">
+
 *Circuito b*
+
+<img src="imagenes/ejerc31_b.jpg">
 
 **33. Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-75.**
 
 <img src="imagenes/fig6_75.jpg">
 
+<img src="imagenes/ejerc33.jpg">
 
 Despejando R se tiene:
 
@@ -872,6 +881,7 @@ R=12.36Ω
 **d. Verifique la ley de corriente de Kirchhoff en el nodo a.**
 
 <img src="imagenes/ejerc35_d.jpg">
+
 ### 4. VIDEO
 
 [Problemas Capítulos 5 y 6 - Informe Tarea N°3](https://youtu.be/H6SpjGA4e0Y "Problemas Capítulos 5 y 6 - Informe Tarea N°3")
