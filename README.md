@@ -729,6 +729,16 @@ b. Determine el valor de la resistencia R3
 
 <img src="imagenes/eje7.jpeg">
 
+9. Vea la red de la figura 6-52: 
+
+a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4. 
+
+b. Calcule el voltaje V, en la red. 
+
+c. Determine los valores de los resistores desconocidos, R1, R3 y R4
+
+
+
 ### 4. VIDEO
 
 [Problemas Capítulos 5 y 6 - Informe Tarea N°3](https://youtu.be/H6SpjGA4e0Y "Problemas Capítulos 5 y 6 - Informe Tarea N°3")
