@@ -737,7 +737,7 @@ b. Calcule el voltaje V, en la red.
 
 c. Determine los valores de los resistores desconocidos, R1, R3 y R4
 
-
+<img src="imagenes/eje.9.jpeg">
 
 ### 4. VIDEO
 
