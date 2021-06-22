@@ -801,7 +801,7 @@ b. Determine la corriente I2**
 
 **19. Determine la resistencia total de cada red de la figura 6-62.**
 
-<img src="imagenes/Ejer-18.jpg">
+<img src="imagenes/Ejer-19.jpg">
 
 **21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican.**
 
