@@ -692,7 +692,7 @@ CIRCUITO 2
 
 ***30.Repita el problema 29 para los circuitos de la figura 5-69.***
 
-<img src="imágenes/Ejer-30.jpg">
+<img src="imagenes/Ejer-30.jpg">
 
 #### Capitulo 6 (Circuitos en paralelo)
 
