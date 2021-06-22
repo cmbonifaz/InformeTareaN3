@@ -915,6 +915,7 @@ R=12.36Ω
 
 - Mediante el desarrollo de los ejercicios pudimos comprender más ampliamente los conceptos de los circutos serie y paralelo, así como también todos los elementos asociados a ellos como el cálculo de las resistencias equivalentes, como se componen y cómo se miden.
 - Se puede concluir que mediante distintos tipos de ejercicios el reforzamiento de los temas sea de corrientes en serie o en paralelo, ha mejorado, eso si usando lo aprendidomediante el transcurso de las clases.
+- Gracias al conocimiento adquirido ya somos capaces de comprender y resolver mayor variedad de circuitos electricos, y con esto podemos avanzar a la siguiente fase de esta materia.
 
 ### 6. BIBLIOGRAFÍA
 
