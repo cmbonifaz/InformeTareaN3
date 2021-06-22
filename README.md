@@ -696,7 +696,7 @@ CIRCUITO 2
 
 **31. Para los circuitos de la figura 5-71, determine el voltaje en cada resistor y calcule el voltaje Va.**
 
-
+<img src="imagenes/Ejer-31.jpg">
 
 **32. Dados los circuitos de la figura 5-72:
 a. Determine el voltaje en cada resistor.
@@ -704,27 +704,27 @@ b. Encuentre la magnitud y dirección de la corriente en un resistor de
 180kohm.
 c. Resuelva para hallar el voltaje Va.**
 
-
+<img src="imagenes/Ejer-32.jpg">
 
 **33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de 14.2 V. Cuando se conecta a una carga de 100 ohm, el voltaje medido entre las terminales de la batería cae a 6.8 V. a. Determine la resistencia interna de la batería b. Si la carga de 100ohm fuera reemplazada con una de 200ohm, ¿qué voltaje se mediría en las terminales de la batería?**
 
-
+<img src="imagenes/Ejer-33.jpg">
 
 **34. La fuente de voltaje que se muestra en la figura 5-73 tiene un voltaje a circuito abierto de 24 V. Cuando se conecta una carga de 10 ohm en las terminales, el voltaje medido con un voltímetro cae a 22.8 V. a. Determine la resistencia interna de la fuente de voltaje. b. Si la fuente sólo tuviera la mitad de la resistencia determinada en (a), ¿qué voltaje se mediría en las terminales si se conectara un resistor de 10 ohm?**
 
-
+<img src="imagenes/Ejer-34.jpg">
 
 **35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito. Si un amperímetro que tiene una resistencia interna de 50 ohm se usa para medir la corriente en los circuitos, determine la corriente a través de él y calcule el efecto de carga en cada circuito.**
 
-
+<img src="imagenes/Ejer-35.jpg">
 
 **36. Repita el problema 35 si el amperímetro tiene una resistencia de 10 ohm.**
 
-
+<img src="imagenes/Ejer-36.jpg">
 
 **37. Vea los circuitos de la figura 5-66. Utilice Multisim para encontrar lo siguiente: a. La corriente en cada circuito. b. El voltaje en cada resistor en el circuito.**
 
-
+<img src="imagenes/Ejer-37.jpg">
 
 **38. Dado el circuito de la figura 5-75, use Multisim para determinar lo siguiente:
 a. La corriente a través de la fuente de voltaje, I.
@@ -732,7 +732,7 @@ b. El voltaje en cada resistor.
 c. El voltaje entre las terminales a y b.
 d. El voltaje, con respecto a la tierra, en la terminal c.**
 
-
+<img src="imagenes/Ejer-38.jpg">
 
 #### Capitulo 6 (Circuitos en paralelo)
 
