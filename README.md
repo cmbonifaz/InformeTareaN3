@@ -859,12 +859,19 @@ R=12.36Ω
 
 **a. Determine la resistencia equivalente RT, del circuito.**
 
+<img src="imagenes/ejerc35_a.jpg">
+
 **b. Encuentre la corriente I.**
+
+<img src="imagenes/ejerc35_b.jpg">
 
 **c. Use la regla del divisor de corriente para determinar la corriente en cada resistor.**
 
+<img src="imagenes/ejerc35_c.jpg">
+
 **d. Verifique la ley de corriente de Kirchhoff en el nodo a.**
 
+<img src="imagenes/ejerc35_d.jpg">
 ### 4. VIDEO
 
 [Problemas Capítulos 5 y 6 - Informe Tarea N°3](https://youtu.be/H6SpjGA4e0Y "Problemas Capítulos 5 y 6 - Informe Tarea N°3")
