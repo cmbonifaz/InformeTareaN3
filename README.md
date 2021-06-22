@@ -15,6 +15,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Conocer y analizar las ideas y conceptos básicos sobre las resistencias tanto en serie como en paralelo, y como se calculan, así como también sobre Ley de Ohm, la ley de Kirchhoff, y los divisores de corriente y voltaje.
 
+- Aprender cada uno de los aspectos y atributos que tienen los circuitos en serie y en paralelo, para posteriormente poder analizarlos de una forma adecuada.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 5 (Circuitos en serie)
