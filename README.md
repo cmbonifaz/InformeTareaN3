@@ -805,11 +805,11 @@ I2=0.1 A=I2
 
 <img src="imagenes/fig6_75.jpg">
 
-**35. Vea el circuito de la figura 6-77: **
+**35. Vea el circuito de la figura 6-77:**
 
 <img src="imagenes/fig6_77.jpg">
 
-**a. Determine la resistencia equivalente RT, del circuito. **
+**a. Determine la resistencia equivalente RT, del circuito.**
 
 **b. Encuentre la corriente I.**
 
